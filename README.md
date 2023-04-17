@@ -1,6 +1,6 @@
 ## A node.js Docker server that can be accessed via SSH
 
-**[node:lts](https://hub.docker.com/_/node)**에 SSH 연결 기능이 추가된 이미지입니다.
+[node:lts](https://hub.docker.com/_/node)에 SSH 연결 기능이 추가된 이미지입니다.
 
 이 레포지토리를 클론한 후 `docker-compose up` 명령어만 입력하면 됩니다.
 
